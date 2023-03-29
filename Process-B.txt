@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <unistd.h>
+#include <sched.h>
+#include <stdlib.h>
+#include <sys/resource.h>
+#include <time.h>
+
+int main(int argc, char *argv[])
+{
+	
+	while(1)
+	{
+		printf("Process B");
+		
+		
+	}
+}
